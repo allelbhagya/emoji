@@ -12,3 +12,5 @@ want to try out?
 2. run main.ipynb
 
 3. smile and let me know how it's working :)
+
+![image](https://github.com/allelbhagya/emoji/assets/80905783/41c0fbf4-60e4-4635-8b86-2cb65cbf079e)
